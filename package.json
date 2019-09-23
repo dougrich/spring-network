@@ -1,12 +1,18 @@
 {
   "name": "@dougrich/spring-network",
   "version": "0.1.0",
-  "description": "",
+  "description": "Simple spring network simulator",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "author": {
+    "name": "Douglas Richardson"
+  },
+  "repository": "git@github.com:dougrich/spring-network.git",
+  "bugs": {
+    "url": "https://github.com/dougrich/spring-network/issues"
+  },
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",
